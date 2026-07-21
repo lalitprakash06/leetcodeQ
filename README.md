@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/lalitprakash06/leetcodeQ/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/lalitprakash06/leetcodeQ/tree/master/0070-climbing-stairs) |
 | [2169-count-operations-to-obtain-zero](https://github.com/lalitprakash06/leetcodeQ/tree/master/2169-count-operations-to-obtain-zero) |
 ## String
 |  |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/lalitprakash06/leetcodeQ/tree/master/2169-count-operations-to-obtain-zero) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lalitprakash06/leetcodeQ/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lalitprakash06/leetcodeQ/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
