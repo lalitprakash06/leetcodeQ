@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/lalitprakash06/leetcodeQ/tree/master/0013-roman-to-integer) |
+| [2169-count-operations-to-obtain-zero](https://github.com/lalitprakash06/leetcodeQ/tree/master/2169-count-operations-to-obtain-zero) |
 ## String
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lalitprakash06/leetcodeQ/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Simulation
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/lalitprakash06/leetcodeQ/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
