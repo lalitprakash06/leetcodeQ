@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/lalitprakash06/leetcodeQ/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/lalitprakash06/leetcodeQ/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/lalitprakash06/leetcodeQ/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
